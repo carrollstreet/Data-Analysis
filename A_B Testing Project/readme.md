@@ -1,3 +1,3 @@
 # Plotly 
-Для отображения интерактивных графиков plotly, 
+Исследование конверсии и анализ результатов A/B тестирования для интернет-магазина (данные синтетические). Для отображения интерактивных графиков plotly, 
 смотрите проект по [ссылке](https://nbviewer.jupyter.org/github/carrollstreet/Data-Analysis/blob/master/A_B%20Testing%20Project/A_B%20Testing.ipynb).
